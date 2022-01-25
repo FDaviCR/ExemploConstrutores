@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ExemploContrutores.Models
+namespace ExemploConstrutores.Models
 {
     internal class Log
     {

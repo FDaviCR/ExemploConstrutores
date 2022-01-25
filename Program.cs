@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using ExemploContrutores.Models;
+using ExemploConstrutores.Models;
 
-namespace ExemploContrutores
+namespace ExemploConstrutores
 {
     internal class Program
     {
